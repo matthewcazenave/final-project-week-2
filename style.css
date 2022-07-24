@@ -334,3 +334,84 @@ li {
 
     background-color: rgb(60, 0, 181);
 }
+
+/* START */
+
+.start__container{
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+    display: flex;
+    padding: 0;
+}
+
+.start__title{
+    color: rgb(60, 0, 181);
+    letter-spacing: 2px;
+    font-size: 16px;
+    margin-bottom: 12px;
+}
+
+.start__subtitle{
+    font-size: 3rem;
+    text-align: left;
+    margin-top: 0;
+}
+
+.start__img--container{
+    width: 50%;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.start__img{
+    width: 400px;
+    max-width: 100%;
+    height: auto;
+    font-size: 100px;
+}
+
+.start__list--items{
+    padding: 0;
+}
+
+.start__list--item{
+    display: flex;
+    margin: 0;
+}
+
+.start__number{
+    font-weight: 600;
+    font-size: 2.25rem;
+    line-height: 1;
+    color: rgb(203, 213, 224);
+    margin-top: 0.5rem;
+    
+}
+
+.start__para{
+    margin-top: 0px;
+    margin-left: 1.5rem;
+    display: block;
+    margin: 10px 0 10px 2rem;
+    letter-spacing: .5px;
+}
+
+.start__para--title{
+    line-height: 1;
+    font-weight: 600;
+    font-size: 1.25rem;
+    margin: 0;
+}
+
+.start__para--words{
+    margin-top: .75rem;
+    max-width: 20rem;
+    line-height: 2;
+    font-size: .875rem;
+    color: rgb(113, 128, 150);
+    font-weight: 500;
+}
