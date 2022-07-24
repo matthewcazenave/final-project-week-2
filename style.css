@@ -288,7 +288,7 @@ li {
 .quality__text{
     width: 50%;
     padding: 20px 60px;
-    text-align: right;
+    text-align: left;
 }
 
 .quality__img--box{
